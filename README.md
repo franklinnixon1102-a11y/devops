@@ -10,5 +10,5 @@ Goal: Become a DevOps Engineer
 - Installed VirtualBox
 - Created GitHub Account
 - Created GitHub Repository
-- Downloading Ubuntu
+- Downloaded Ubuntu
 
